@@ -1,6 +1,8 @@
 (() => {
 	console.log("Lee,Lin,Guzman midterm");
 
+/*trying to do*/	
+
 
 function viewText() { 
   let soyoon = document.getElementById(".text"); 

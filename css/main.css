@@ -1,4 +1,4 @@
-/****** All coding in this page is  Soyoon Lee part :))))))))))))*********/
+/****** All coding in this page is  Soyoon Lee part :))))))))))********/
 
 
 main
@@ -343,7 +343,6 @@ float: right;
 #footer ul li
 {
 padding-right: 15px;
-cursor: pointer;
 }
 
 #footer ul li a
@@ -352,4 +351,6 @@ display: block;
 color: white;
 text-decoration: none;
 padding: 10px;
+/* this weird cursor pointer is positioned above the images */
+cursor: pointer;
 }
